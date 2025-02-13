@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    align-content: center;
+    padding: 2rem;
     flex-direction: column;
     background-color: #121826;
     background-image: url('../img/Background_image@2x.png');
